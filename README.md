@@ -4,4 +4,3 @@ this is my first repo
 i have learned git and github
 <h1>my name <h2>
 <br>
-<h2> i pakistan<h2>
